@@ -1,4 +1,4 @@
-# **Capstone-EDA-project-1-Airbnb-bookings-analysis**
+# **Capstone-EDA-Project-Airbnb-bookings-analysis**
 
 
 ![AirBnb](![Untitled](https://github.com/user-attachments/assets/ad673263-bc4d-4e7c-8184-101f5f3e647b)
