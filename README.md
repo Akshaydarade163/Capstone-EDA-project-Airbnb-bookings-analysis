@@ -5,10 +5,12 @@
 
 ## Table of Contents
 
-- [Introduction of Airbnb](#Introduction of Airbnb)
-- [About the Dataset – AIRBNB BOOKINGS](#About the Dataset – AIRBNB BOOKINGS)
-- [Different Python libraries used to complete this EDA](#Different Python libraries used to complete this EDA)
-- [The purpose of the analysis](#The purpose of the analysis)
+- [Introduction of Airbnb](#introduction-of-airbnb)
+- [About the Dataset – AIRBNB BOOKINGS](#about-the-dataset--airbnb-bookings)
+- [Different Python libraries used to complete this EDA](#different-python-libraries-used-to-complete-this-eda)
+- [Project Work flow](#project-work-flow)
+- [The purpose of the analysis](#the-purpose-of-the-analysis)
+
 
 ## **Introduction of Airbnb**
 
