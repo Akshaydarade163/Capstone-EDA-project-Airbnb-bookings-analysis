@@ -1,8 +1,7 @@
 # **Capstone-EDA-Project-Airbnb-bookings-analysis**
 
 
-![AirBnb](![Untitled](https://github.com/user-attachments/assets/ad673263-bc4d-4e7c-8184-101f5f3e647b)
-)
+![Untitled](https://github.com/user-attachments/assets/cdd0ad9f-b028-45d4-801e-7ddef7a3bf0d)
 
 
 ## **Introduction of Airbnb**
