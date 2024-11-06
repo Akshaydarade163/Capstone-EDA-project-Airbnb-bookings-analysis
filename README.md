@@ -3,6 +3,12 @@
 
 ![Untitled](https://github.com/user-attachments/assets/cdd0ad9f-b028-45d4-801e-7ddef7a3bf0d)
 
+## Table of Contents
+
+- [Introduction of Airbnb](#Introduction of Airbnb)
+- [About the Dataset – AIRBNB BOOKINGS](#About the Dataset – AIRBNB BOOKINGS)
+- [Different Python libraries used to complete this EDA](#Different Python libraries used to complete this EDA)
+- [The purpose of the analysis](#The purpose of the analysis)
 
 ## **Introduction of Airbnb**
 
